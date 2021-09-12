@@ -6,7 +6,7 @@ body {
 .zone {
   /*padding:30px 50px;*/
   cursor: pointer;
-  color: #fff;
+  color: rgb(204, 8, 8);
   font-size: 2em;
   border-radius: 4px;
   border: 1px solid #bbb;
